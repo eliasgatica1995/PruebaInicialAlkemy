@@ -1,2 +1,3 @@
-Prueba de generar conflicto EDITAR README
-EDICION NRO 2 PRUEBA
+# PruebaInicialAlkemy, Esta es una prueba de conflictos de git!!
+sdsdffsdfsdfsdf
+adasdasaddada
